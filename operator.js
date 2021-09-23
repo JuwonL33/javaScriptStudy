@@ -141,7 +141,7 @@ if (name === 'ellie'){
 }else{
     console.log('unknown');
 }
-
+  
 
 
 // 9. Ternary operator: ?
